@@ -62,5 +62,23 @@ ___
 
 <!--\ 이스케이프 문자 -->
 
+[연결하고싶은 문자를 대괄호 안에](https://github.com/kadahye-stat/261112_Git)  
+
+`[연결하고 싶은 문자](https://github.com/kadahye-stat/261112_Git)`
+
+![대체 텍스트]()  
+![대체 텍스트](https://plus.unsplash.com/premium_photo-1694819488591-a43907d1c5cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)  
+![https://plus.unsplash.com/premium_photo-1694819488591-a43907d1c5cc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D](https://naver.com)
+
+```[![이미지](이미지링크)](접속링크)```
+
+<center>가운데정렬이 됩니다</center>
+
+|제목1|제목2|제목3|  
+|-----|----|-----|
+|내용1|내용2|내용3|
+|와진짜개졸리낟|
+|:---왼쪽정렬|--:|왼쪽 정렬|:--:|가운데 정렬 
+
 
 
